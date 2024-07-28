@@ -20,5 +20,9 @@ name = "javascript"
     "cypress",
     "jquery",
     "mocha",
-    "browser"
+    "browser",
+    "vitest"
   ]
+
+[[transformers]]
+name = "standardjs"
